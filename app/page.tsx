@@ -1,5 +1,5 @@
 'use client'
-import RPGTodoList from '../components/RPGTodoList'
+import RPGTodoList from '@/components/RPGTodoList'
 
 export default function Home() {
   return (
